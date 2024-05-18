@@ -5,6 +5,7 @@ from scipy.fftpack import fft
 import math
 
 
+
 t= np.linspace(0,3,12*1024)
 
 Fi_1=np.array([130.81,220,0,246.93,164.81])
